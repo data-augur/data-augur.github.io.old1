@@ -21,7 +21,7 @@
 title: Sarfraz Arshad
 email: m.sarfraz.arshad@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My insights on investments stock market, and latest in tech world
+  My insights on investments, stock market, and latest in tech world
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sarfrazarshad
@@ -29,7 +29,7 @@ github_username:  data-augur
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-clean-blog
+remote_theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
